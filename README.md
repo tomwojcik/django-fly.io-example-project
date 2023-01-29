@@ -1,3 +1,10 @@
+## Jan 29th 2023 - this project is being archived as I've created proper cookiecutters
+- [tomwojcik/django-fly-sqlite-template](https://github.com/tomwojcik/django-fly-sqlite-template)
+- [tomwojcik/django-fly-postgres-template](https://github.com/tomwojcik/django-fly-postgres-template)
+
+
+
+
 # django-fly.io-example-project
 Example Django project to test the deployment on Fly.io
 
